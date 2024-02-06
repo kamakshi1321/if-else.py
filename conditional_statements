@@ -1,0 +1,13 @@
+age=12
+if age >=18:
+    print("You are an adult")
+elif age<17 and age>3:
+    print("you are a school going child")
+else:
+    print("you are a kid")
+print("thankyou ;)")
+
+
+num=212
+result=num//10
+print(result)
